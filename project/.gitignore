@@ -1,0 +1,5 @@
+secrets.txt
+.DS_Store
+
+#Are allowed to comment like this. 
+# *.txt . All files with .txt to ignore.
